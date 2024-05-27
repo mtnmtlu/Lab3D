@@ -23,17 +23,6 @@ Matematik : Noktalara geldiklerinde, basit matematik sorularını çözmek zorun
 Puanlama Sistemi 
 
 Oyunun başlangıcında ilerlemeye başlanıldığı anda süre “0” ‘dan işlemeye başlayacak ve saniye cinsinden ilerlemeye devam edecek.Oyun içindeki belirli noktalara gelindiğinde ekrana gelen matematik sorularına eğer yanlış cevap verilirse “+2 saniye”ceza olarak süreye yansıtılacaktır.Doğru cevap verilmesi durumunda ise “-1 saniye” süreden düşülerek avantaj sağlaması amaçlanmaktadır.
-Haftalık Plan
 
-5. Hafta: GitHub üzerinden gerekli ayarlamaların yapılması
-6. Hafta: Temel tasarımların oluşturulması
-7. Hafta: Labirent düzeninin oluşturulması
-8. Hafta: Basit mekaniklerin oluşturulması
-9. Hafta: Matematik testlerinin ayarlanması
-10. Hafta: Süre mekaniğinin entegresi 
-11. Hafta: Süre mekaniğinin sorularla bağlantısı
-12. Hafta: Müzik eklenmesi
-13. Hafta: UI geliştirilmesi ve test
-14. Hafta: Optimizasyon ve son düzeltmeler
 
 
