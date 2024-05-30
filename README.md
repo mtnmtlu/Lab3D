@@ -3,8 +3,6 @@ Oyun Başlangıç Dökümanı
 Ad Soyad  :  Metin Mutlu
 
 
-Öğrenci No: 132230127
-
 
 Oyun Tanıtım Videosu: https://youtu.be/n8Z0Mv8CYNw
 
