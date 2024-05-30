@@ -17,6 +17,8 @@ Oyunun Amacı
 *Yukarıdaki görsel “Oyuna Başla” butonu ile oyunun başlamasını sağlıyor.
 
 Oyuncuların dikkat, hafıza ve hesap yeteneklerini sınamayı amaçlayan bir bulmaca oyunudur. Oyuncular labirent içinde ilerlerken karşılarına çıkan engelleri aşmak için hafıza ve matematik becerilerini kullanmak zorundadırlar. Oyunun amacı, labirenti en kısa sürede tamamlamak ve en iyi zamanı elde etmektir.
+
+
 Nasıl Oynanır ?
 
 Labirent içindeki topu kontrol ederek bitişe ulaşılması amaçlanmaktadır.Bu süreç boyunca belirli noktalara gelindiğinde ekrana matematiksel işlem içeren sorularla karşılaşacaklardır.Matematik yeteneklerini kullanarak bu soruları aşmak ve labirenti bitirmek zorundadırlar.
@@ -30,7 +32,11 @@ Labirent içindeki topu kontrol ederek bitişe ulaşılması amaçlanmaktadır.B
 Yeteneklerin Ölçümü
 
 Dikkat: Oyuncular, labirent içinde ilerlerken etraflarındaki detaylara dikkat etmelidirler. Engelleri aşmak için dikkatli bir şekilde hareket etmelidirler.
+
+
 Hafıza :Labirentte nereden gideceğini hangi yolun doğru hangi yolun yanlış olduğunu kişinin aklında tutması ve bitişe en kısa yoldan gitmesi hedeflenmektedir.
+
+
 Matematik : Noktalara geldiklerinde, basit matematik sorularını çözmek zorundadırlar.
 
 <img width="879" alt="Ekran Resmi 2024-05-30 20 06 04" src="https://github.com/mtnmtlu/Lab3D/assets/115924889/0f61214a-ac60-441b-b528-361cea29f7b8">
